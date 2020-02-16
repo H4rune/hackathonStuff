@@ -20,3 +20,4 @@ public class GameScreen extends BorderPane {
 		getChildren().addAll(infoArea, buttonArea);
 	}
 }
+
